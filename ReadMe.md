@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently learning full stack development front end with react and nodeJS for backend
+I’m currently pursuing full-stack development, with a focus on building modern, responsive front-end applications using React and scalable back-end solutions using Node.js.
 
 
 ## 🌐 Socials:
